@@ -1,0 +1,42 @@
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\bin\Debug\ProjectFv2.exe.config
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\bin\Debug\ProjectFv2.exe
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\bin\Debug\ProjectFv2.pdb
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.FrmMainWindow.resources
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.Properties.Resources.resources
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.csproj.GenerateResource.Cache
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.exe
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.pdb
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\bin\Debug\BAL.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\bin\Debug\DAL.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\bin\Debug\BAL.pdb
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\bin\Debug\DAL.pdb
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.FrmSearchWindow.resources
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\bin\Debug\ProjectFv2.exe.config
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.pdb
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\bin\Debug\ProjectFv2.exe
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\bin\Debug\ProjectFv2.pdb
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\bin\Debug\BAL.dll
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\bin\Debug\DAL.dll
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\bin\Debug\BAL.pdb
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\bin\Debug\DAL.pdb
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.FrmMainWindow.resources
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.FrmSearchWindow.resources
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.Properties.Resources.resources
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.csproj.GenerateResource.Cache
+C:\Users\home\Desktop\ProjectFv2\ProjectFv2\obj\Debug\ProjectFv2.exe
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\bin\Debug\ProjectFv2.exe.config
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\obj\Debug\ProjectFv2.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\bin\Debug\ProjectFv2.exe
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\bin\Debug\ProjectFv2.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\bin\Debug\BAL.dll
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\bin\Debug\DAL.dll
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\bin\Debug\BAL.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\bin\Debug\DAL.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\obj\Debug\ProjectFv2.csprojResolveAssemblyReference.cache
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\obj\Debug\ProjectFv2.FrmMainWindow.resources
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\obj\Debug\ProjectFv2.FrmSearchWindow.resources
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\obj\Debug\ProjectFv2.Properties.Resources.resources
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\obj\Debug\ProjectFv2.csproj.GenerateResource.Cache
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\ProjectFv2\obj\Debug\ProjectFv2.exe

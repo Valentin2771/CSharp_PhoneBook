@@ -1,0 +1,15 @@
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\DAL\bin\Debug\DAL.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\DAL\bin\Debug\DAL.pdb
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\DAL\obj\Debug\DAL.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\DAL\obj\Debug\DAL.pdb
+C:\Users\home\Desktop\ProjectFv2\DAL\bin\Debug\DAL.dll
+C:\Users\home\Desktop\ProjectFv2\DAL\bin\Debug\DAL.pdb
+C:\Users\home\Desktop\ProjectFv2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\ProjectFv2\DAL\obj\Debug\DAL.dll
+C:\Users\home\Desktop\ProjectFv2\DAL\obj\Debug\DAL.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\DAL\bin\Debug\DAL.dll
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\DAL\bin\Debug\DAL.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\DAL\obj\Debug\DAL.dll
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\DAL\obj\Debug\DAL.pdb

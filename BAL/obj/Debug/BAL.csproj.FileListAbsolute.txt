@@ -1,0 +1,21 @@
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\BAL\bin\Debug\BAL.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\BAL\bin\Debug\BAL.pdb
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\BAL\bin\Debug\DAL.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\BAL\bin\Debug\DAL.pdb
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\BAL\obj\Debug\BAL.dll
+C:\Users\home\Documents\Visual Studio 2013\Projects\ProiectFinal\ProjectFv2\BAL\obj\Debug\BAL.pdb
+C:\Users\home\Desktop\ProjectFv2\BAL\bin\Debug\BAL.dll
+C:\Users\home\Desktop\ProjectFv2\BAL\bin\Debug\BAL.pdb
+C:\Users\home\Desktop\ProjectFv2\BAL\bin\Debug\DAL.dll
+C:\Users\home\Desktop\ProjectFv2\BAL\bin\Debug\DAL.pdb
+C:\Users\home\Desktop\ProjectFv2\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\ProjectFv2\BAL\obj\Debug\BAL.dll
+C:\Users\home\Desktop\ProjectFv2\BAL\obj\Debug\BAL.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\BAL\bin\Debug\BAL.dll
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\BAL\bin\Debug\BAL.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\BAL\bin\Debug\DAL.dll
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\BAL\bin\Debug\DAL.pdb
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\BAL\obj\Debug\BAL.dll
+D:\_ICLOZAN\TASKS\CSharp\FP\MVC_App\BAL\obj\Debug\BAL.pdb
